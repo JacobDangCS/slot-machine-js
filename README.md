@@ -1,6 +1,9 @@
 # Slot Machines
 This project implements a slot machine interface utilizing spinning doors and boxes containing different emojis. Users can interact with the interface by clicking the spinner button to spin the doors and generate the emojis.
 
+## Deployed Link
+https://jacobdangcs.github.io/slot-machine-js/
+
 ## Features
 
 - Spinning doors that animate the movement of boxes containing emojis.
